@@ -1,6 +1,6 @@
 # gui-virustotal
 
-![Texto alternativo]([ruta/a/la/imagen.png](https://github.com/Stradivariuskein/gui-virustotal/blob/master/imagen-ilustrativa.png))
+![Texto alternativo](https://github.com/Stradivariuskein/gui-virustotal/blob/master/imagen-ilustrativa.png)
 
 si se instala:
 agrega al menu contextual una ocion para escanear un archivo con virustotal
