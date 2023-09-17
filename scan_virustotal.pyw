@@ -16,7 +16,7 @@ def agregar_fila(anti_virus, scan, result):
         #fila_id = tabla.insert("", "end", values=(anti_virus, "", result))
         if scan:
             tabla.insert('', 'end', text="Fila 1", values=(anti_virus, img_cruz, result))
-            tabla.image_references.append(img_cruz)
+            #tabla.image_references.append(img_cruz)
 
            
         else:
